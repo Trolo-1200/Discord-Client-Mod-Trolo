@@ -18,8 +18,6 @@
 @import url('https://thecommieaxolotl.github.io/BetterDiscord-Stuff/MaterialDesign/Clients/betterdiscord.css');
 
 :root {
-  --font-primary: gg sans normal;
-  --font-code: Source Code Pro;
   --floating-background-opacity: 100;
   --floating-background-blur: 0px;
   --version: "0.9.9";
