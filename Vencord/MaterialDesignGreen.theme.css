@@ -81,9 +81,9 @@
 }
 
 .theme-dark {
-  --skin-accent-h: 139;
-  --skin-accent-s: 84%;
-  --skin-accent-l: 60;
+  --skin-accent-h: 147;
+  --skin-accent-s: 60%;
+  --skin-accent-l: 58;
   --skin-accent-a: 100;
   --skin-background-h: 142;
   --skin-background-s: 9%;
@@ -130,9 +130,9 @@
 }
 
 .theme-light {
-  --skin-accent-h: 139;
-  --skin-accent-s: 84%;
-  --skin-accent-l: 60;
+  --skin-accent-h: 147;
+  --skin-accent-s: 60%;
+  --skin-accent-l: 58;
   --skin-accent-a: 100;
   --switch-checked-background: hsl(101, calc(var(--saturation-factor) * 54), 27);
   --switch-unchecked-background: #74796e33;
