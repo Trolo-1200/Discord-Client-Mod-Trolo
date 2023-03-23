@@ -11,13 +11,15 @@
  * @BDEditor MaterialDesign
 */
 
-@import url('https://fonts.googleapis.com/css2?family=gg+sans+normal:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=whitney:wght@100;300;400;500;700&display=swap');
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
 @import url('https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Imports/UserBadges.css');
 @import url('https://maendisease.github.io/BetterDiscordStuff/css/bettterInvites.css');
 @import url('https://thecommieaxolotl.github.io/BetterDiscord-Stuff/MaterialDesign/Clients/betterdiscord.css');
 
 :root {
+  --font-primary: Whitney;
+  --font-code: Source Code Pro;
   --floating-background-opacity: 100;
   --floating-background-blur: 0px;
   --version: "0.9.9";
@@ -81,7 +83,7 @@
 .theme-dark {
   --skin-accent-h: 139;
   --skin-accent-s: 84%;
-  --skin-accent-l: 100;
+  --skin-accent-l: 60;
   --skin-accent-a: 100;
   --skin-background-h: 142;
   --skin-background-s: 9%;
@@ -130,7 +132,7 @@
 .theme-light {
   --skin-accent-h: 139;
   --skin-accent-s: 84%;
-  --skin-accent-l: 100;
+  --skin-accent-l: 60;
   --skin-accent-a: 100;
   --switch-checked-background: hsl(101, calc(var(--saturation-factor) * 54), 27);
   --switch-unchecked-background: #74796e33;
@@ -140,5 +142,3 @@
 }
 
 /* Any custom CSS below here */
-
-
